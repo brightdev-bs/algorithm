@@ -6,14 +6,13 @@ import java.util.Scanner;
 public class Ch8_9 {
 
     static int n, m;
-    static int[] ch, out;
+    static int[] out;
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         n = sc.nextInt();
         m = sc.nextInt();
-        ch = new int[n + 1];
         out = new int[m];
 
         DFS(0, 1);
