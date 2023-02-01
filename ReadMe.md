@@ -12,3 +12,5 @@
 
 ### Union&Find
 1. [Union&Find](docs/Union_Find.md)
+
+### Dynamic
