@@ -1,4 +1,4 @@
-package dijkstra.inflearn;
+package greedy.inflearn.dijkstra;
 
 import java.util.ArrayList;
 import java.util.Arrays;

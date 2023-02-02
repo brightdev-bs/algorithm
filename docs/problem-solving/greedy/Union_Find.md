@@ -21,4 +21,4 @@ public static void union(int a, int b){
 ~~~
 
 ### 관련 문제
-[인프런 9-6](/src/union_find/inflearn/Ch9_6.java)
+[인프런 9-6](/union_find/inflearn/Ch9_6.java)

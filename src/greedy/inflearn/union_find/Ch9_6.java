@@ -1,4 +1,4 @@
-package union_find.inflearn;
+package greedy.inflearn.union_find;
 
 import java.util.Scanner;
 

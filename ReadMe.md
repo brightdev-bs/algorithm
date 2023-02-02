@@ -1,16 +1,30 @@
 # Algorithm
+## Graph
 ### DFS
 1. [수열 추측하기](docs/problem-solving/dfs/수열_추측하기.md) <br>
-2. [조합 구하기](./docs/조합_구하기.md)
+2. [조합 구하기](docs/problem-solving/dfs/조합_구하기.md)
 3. [피자 배달 거리](docs/problem-solving/dfs/피자_배달_거리.md)<br>
 
 ### BFS
-1. [최단 거리](docs/최단거리_BFS.md)
+1. [최단 거리](docs/problem-solving/bfs/최단거리_BFS.md)
 
-### dijkstra
-1. [다익스트라 알고리즘](docs/다익스트라.md)
+## Greedy
+### Greedy
+1. [결혼식](docs/problem-solving/greedy/결혼식.md)
+2. [최대 수입 스케쥴](docs/problem-solving/greedy/최대_수입_스케쥴.md)
+
+### Dijkstra
+1. [다익스트라 알고리즘](docs/problem-solving/greedy/다익스트라.md)
 
 ### Union&Find
-1. [Union&Find](docs/Union_Find.md)
+1. [Union&Find](docs/problem-solving/greedy/Union_Find.md)
 
-### Dynamic
+### MST 
+1. [최소스패닝트리](docs/problem-solving/greedy/최소스패닝트리.md)
+
+
+
+## Dynamic
+1. [다이나믹 프로그래밍](docs/problem-solving/dy/다이나믹_프로그래밍.md)
+2. [최대증가수열](docs/problem-solving/dy/최대증가수열.md)
+3. [냅색 알고리즘](docs/problem-solving/dy/냅색_알고리즘.md)

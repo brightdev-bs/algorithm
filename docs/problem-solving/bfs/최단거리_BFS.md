@@ -27,5 +27,5 @@ while(!queue.isEmpty()) {
 ~~~
 
 ### 관련 문제 
-[인프런 8-11](/src/bfs/inflearn/Ch8_11.java) <br>
-[인프런 8-12](/src/bfs/inflearn/Ch8_12.java) <br>
+[인프런 8-11](/bfs/inflearn/Ch8_11.java) <br>
+[인프런 8-12](/bfs/inflearn/Ch8_12.java) <br>
