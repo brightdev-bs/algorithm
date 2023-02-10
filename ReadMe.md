@@ -7,7 +7,10 @@
 
 ### BFS
 1. [최단 거리](docs/problem-solving/bfs/최단거리_BFS.md)
-2. [BFS_DFS 기초 확인 문제](/src/dfs/baekjoon/Q14888.java) 
+
+### DFS&BFS
+1. [BFS_DFS 기초 확인 문제](/src/dfs/baekjoon/Q14888.java)
+2. [BFS_DFS 기초2](/src/dfs/baekjoon/Q1303.java)
 
 ## Greedy
 ### Greedy
