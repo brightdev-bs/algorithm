@@ -7,6 +7,7 @@
 
 ### BFS
 1. [최단 거리](docs/problem-solving/bfs/최단거리_BFS.md)
+2. [BFS_DFS 기초 확인 문제](/src/dfs/baekjoon/Q14888.java) 
 
 ## Greedy
 ### Greedy
@@ -22,9 +23,13 @@
 ### MST 
 1. [최소스패닝트리](docs/problem-solving/greedy/최소스패닝트리.md)
 
-
-
 ## Dynamic
 1. [다이나믹 프로그래밍](docs/problem-solving/dy/다이나믹_프로그래밍.md)
 2. [최대증가수열](docs/problem-solving/dy/최대증가수열.md)
 3. [냅색 알고리즘](docs/problem-solving/dy/냅색_알고리즘.md)
+
+## Bruteforce
+1. [사탕 게임](docs/problem-solving/bruteforce/사탕_게임.md)
+
+## Stack & Queue
+1. [괄호의 값](docs/problem-solving/stack/괄호의_값.md)
