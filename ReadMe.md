@@ -30,6 +30,8 @@
 1. [다이나믹 프로그래밍](docs/problem-solving/dy/다이나믹_프로그래밍.md)
 2. [최대증가수열](docs/problem-solving/dy/최대증가수열.md)
 3. [냅색 알고리즘](docs/problem-solving/dy/냅색_알고리즘.md)
+4. [동전 교환](/src/dy/baekjoon/Q2293.java)
+5. [동전 교환2](/src/dy/baekjoon/Q2294.java)
 
 ## Bruteforce
 1. [사탕 게임](docs/problem-solving/bruteforce/사탕_게임.md)
