@@ -32,6 +32,8 @@
 3. [냅색 알고리즘](docs/problem-solving/dy/냅색_알고리즘.md)
 4. [동전 교환](/src/dy/baekjoon/Q2293.java)
 5. [동전 교환2](/src/dy/baekjoon/Q2294.java)
+6. [점프](/src/dy/baekjoon/Q1890.java) (다시 풀기)
+7. [1, 2, 3 더하기 4](/src/dy/baekjoon/Q15989.java) (다시 풀기)
 
 ## Bruteforce
 1. [사탕 게임](docs/problem-solving/bruteforce/사탕_게임.md)
