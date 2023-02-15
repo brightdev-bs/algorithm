@@ -16,6 +16,7 @@
 ### Greedy
 1. [결혼식](docs/problem-solving/greedy/결혼식.md)
 2. [최대 수입 스케쥴](docs/problem-solving/greedy/최대_수입_스케쥴.md)
+3. [멀티탭 스케줄링](docs/problem-solving/greedy/멀티탭_스케줄링.md) (다시 풀기)
 
 ### Dijkstra
 1. [다익스트라 알고리즘](docs/problem-solving/greedy/다익스트라.md)
@@ -34,6 +35,7 @@
 5. [동전 교환2](/src/dy/baekjoon/Q2294.java)
 6. [점프](/src/dy/baekjoon/Q1890.java) (다시 풀기)
 7. [1, 2, 3 더하기 4](/src/dy/baekjoon/Q15989.java) (다시 풀기)
+8. [기타리스트](docs/problem-solving/dy/기타리스트.md) (다시 풀기)
 
 ## Bruteforce
 1. [사탕 게임](docs/problem-solving/bruteforce/사탕_게임.md)
