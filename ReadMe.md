@@ -11,6 +11,7 @@
 ### DFS&BFS
 1. [BFS_DFS 기초 확인 문제](/src/dfs/baekjoon/Q14888.java)
 2. [BFS_DFS 기초2](/src/dfs/baekjoon/Q1303.java)
+3. [단지번호붙이기](/src/dfs/baekjoon/Q2667.java)
 
 ## Greedy
 ### Greedy
@@ -36,6 +37,7 @@
 6. [점프](/src/dy/baekjoon/Q1890.java) (다시 풀기)
 7. [1, 2, 3 더하기 4](/src/dy/baekjoon/Q15989.java) (다시 풀기)
 8. [기타리스트](docs/problem-solving/dy/기타리스트.md) (다시 풀기)
+9. [크리보드](docs/problem-solving/dy/크리보드.md) (다시 풀기)
 
 ## Bruteforce
 1. [사탕 게임](docs/problem-solving/bruteforce/사탕_게임.md)
