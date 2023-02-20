@@ -21,6 +21,7 @@
 
 ### Dijkstra
 1. [다익스트라 알고리즘](docs/problem-solving/greedy/다익스트라.md)
+2. [최소비용 구하기](src/greedy/baekjoon/dijkstra/Q1916.java) (다시 풀기)
 
 ### Union&Find
 1. [Union&Find](docs/problem-solving/greedy/Union_Find.md)
@@ -40,7 +41,14 @@
 9. [크리보드](docs/problem-solving/dy/크리보드.md) (다시 풀기)
 
 ## Bruteforce
-1. [사탕 게임](docs/problem-solving/bruteforce/사탕_게임.md)
+1. [사탕 게임](docs/problem-solving/bruteforce/사탕_게임.md) 
+2. [감소하는 수](/src/bruteforce/baekjoon/Q1038.java) (다시 풀기)
 
 ## Stack & Queue
 1. [괄호의 값](docs/problem-solving/stack/괄호의_값.md)
+
+## 수학
+1. [유클리드 호제법](src/implementation/baekjoon/Q2609.java)
+
+## Two pointer
+1. [부분합](/src/twopointer/Q1806.java)
