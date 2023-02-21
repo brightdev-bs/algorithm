@@ -4,9 +4,11 @@
 1. [수열 추측하기](docs/problem-solving/dfs/수열_추측하기.md) <br>
 2. [조합 구하기](docs/problem-solving/dfs/조합_구하기.md)
 3. [피자 배달 거리](docs/problem-solving/dfs/피자_배달_거리.md)<br>
+4. [A -> B](src/dfs/baekjoon/Q16953.java)
 
 ### BFS
 1. [최단 거리](docs/problem-solving/bfs/최단거리_BFS.md)
+2. [숨바꼭질 2]
 
 ### DFS&BFS
 1. [BFS_DFS 기초 확인 문제](/src/dfs/baekjoon/Q14888.java)
