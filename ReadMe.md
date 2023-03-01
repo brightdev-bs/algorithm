@@ -8,12 +8,16 @@
 
 ### BFS
 1. [최단 거리](docs/problem-solving/bfs/최단거리_BFS.md)
-2. [숨바꼭질 2]
+2. [숨바꼭질 2](/src/bfs/baekjoon/Q12851.java)
+3. [숨바꼭질 3](/src/bfs/baekjoon/Q13549.java)
+4. [숨바꼭질 4](/src/bfs/baekjoon/Q13913.java)
+5. [이모티콘](/src/bfs/baekjoon/Q14226.java)
 
 ### DFS&BFS
 1. [BFS_DFS 기초 확인 문제](/src/dfs/baekjoon/Q14888.java)
 2. [BFS_DFS 기초2](/src/dfs/baekjoon/Q1303.java)
 3. [단지번호붙이기](/src/dfs/baekjoon/Q2667.java)
+4. [아기 상어2](/src/dfs/baekjoon/Q17086.java)
 
 ## Greedy
 ### Greedy
@@ -41,6 +45,11 @@
 7. [1, 2, 3 더하기 4](/src/dy/baekjoon/Q15989.java) (다시 풀기)
 8. [기타리스트](docs/problem-solving/dy/기타리스트.md) (다시 풀기)
 9. [크리보드](docs/problem-solving/dy/크리보드.md) (다시 풀기)
+10. [평범한 배낭](/src/dy/baekjoon/Q12865.java)<br>
+ -> 중복이 안생기도록 해야 하는 냅색 알고리즘 
+11. [1학년](/src/dy/baekjoon/Q5557.java) <br>
+ -> DFS로 조합 구하듯이 풀면 시간 초과 나오는 문제
+12. [데스노트](/src/dy/baekjoon/Q2281.java) (다시풀기)
 
 ## Bruteforce
 1. [사탕 게임](docs/problem-solving/bruteforce/사탕_게임.md) 
