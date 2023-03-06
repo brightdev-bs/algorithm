@@ -61,6 +61,9 @@
 ## 수학
 1. [유클리드 호제법](src/implementation/baekjoon/Q2609.java)
 2. [소수 알고리즘](src/implementation/baekjoon/Q1978.java)
+3. [소수](src/implementation/baekjoon/Q2581.java)
+4. [쉽게 푸는 문제](src/implementation/baekjoon/Q1292.java) (다시 풀기)
+
 
 ## Two pointer
 1. [부분합](/src/twopointer/Q1806.java)
