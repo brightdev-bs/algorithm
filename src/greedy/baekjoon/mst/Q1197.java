@@ -1,4 +1,4 @@
-package greedy.baekjoon.dijkstra;
+package greedy.baekjoon.mst;
 
 import java.util.ArrayList;
 import java.util.PriorityQueue;
