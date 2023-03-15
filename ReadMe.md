@@ -30,10 +30,10 @@
 2. [최소비용 구하기](src/greedy/baekjoon/dijkstra/Q1916.java) (다시 풀기)
 
 ### Union&Find
-1. [Union&Find](docs/problem-solving/greedy/Union_Find.md)
+1. [Union&Find](docs/problem-solving/greedy/Union_Find.md) (개념)
 
 ### MST 
-1. [최소스패닝트리](docs/problem-solving/greedy/최소스패닝트리.md)
+1. [최소스패닝트리](docs/problem-solving/greedy/최소스패닝트리.md) (개념)
 
 ## Dynamic
 1. [다이나믹 프로그래밍](docs/problem-solving/dy/다이나믹_프로그래밍.md)
@@ -50,6 +50,7 @@
 11. [1학년](/src/dy/baekjoon/Q5557.java) <br>
  -> DFS로 조합 구하듯이 풀면 시간 초과 나오는 문제
 12. [데스노트](/src/dy/baekjoon/Q2281.java) (다시풀기)
+13. [소형기관차](/src/dy/baekjoon/Q2616.java) (다시풀기)
 
 ## Bruteforce
 1. [사탕 게임](docs/problem-solving/bruteforce/사탕_게임.md) 
@@ -67,3 +68,7 @@
 
 ## Two pointer
 1. [부분합](/src/twopointer/Q1806.java)
+
+## 문자열
+1. [보이어 무어법](/src/string/BoyerMoore.java)
+2. 
