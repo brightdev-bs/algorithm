@@ -70,5 +70,5 @@
 1. [부분합](/src/twopointer/Q1806.java)
 
 ## 문자열
-1. [보이어 무어법](/src/string/BoyerMoore.java)
+1. [보이어 무어법](/docs/basic/보이어_무어법.md)
 2. 
