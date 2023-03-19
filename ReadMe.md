@@ -71,4 +71,8 @@
 
 ## 문자열
 1. [보이어 무어법](/docs/basic/보이어_무어법.md)
-2. 
+
+## 시뮬레이션
+1. [사라디 타기](/docs/problem-solving/simulation/inflearn/Q1-사다리타기.md)
+2. [청소](/src/implementation/inflearn/Q1_2.java) 
+3. [잃어버린 강아지](/src/implementation/inflearn/Q1_3.java) (2번 심화 문제)
