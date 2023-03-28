@@ -73,6 +73,12 @@
 1. [보이어 무어법](/docs/basic/보이어_무어법.md)
 
 ## 시뮬레이션
-1. [사라디 타기](/docs/problem-solving/simulation/inflearn/Q1-사다리타기.md)
+1. [사라디 타기](/docs/problem-solving/simulation/inflearn/Q1-사다리타기.md) <br>
+[2 ~ 4번 미로에서 방향바꾸는 문제]
 2. [청소](/src/implementation/inflearn/Q1_2.java) 
 3. [잃어버린 강아지](/src/implementation/inflearn/Q1_3.java) (2번 심화 문제)
+4. [좌석 번호](/src/implementation/inflearn/Q1_4.java) (3번 비슷한 문제)
+5. [최대길이 바이토닉 수열](/src/implementation/inflearn/Q1_5.java)
+6. [과일 가져가기](/src/implementation/inflearn/Q1_6.java) (다시 풀기)
+7. [비밀 번호](/src/implementation/inflearn/Q1_7.java)
+8. [회의실 면담](/src/implementation/inflearn/Q1_8.java) (꼭 다시 풀기)
