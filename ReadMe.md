@@ -82,3 +82,9 @@
 6. [과일 가져가기](/src/implementation/inflearn/Q1_6.java) (다시 풀기)
 7. [비밀 번호](/src/implementation/inflearn/Q1_7.java)
 8. [회의실 면담](/src/implementation/inflearn/Q1_8.java) (꼭 다시 풀기)
+
+## 해싱
+1. [한 번 사용한 최초문자](/src/hashing/inflearn/Q2_1.java)
+2. [같은 빈도수 만들기](/src/hashing/inflearn/Q2_2.java)
+3. [서로 다른 빈도수 만들기](/src/hashing/inflearn/Q2_3.java)
+4. [음수가 있는 부분수열](/src/hashing/inflearn/Q2_4.java) (two pointer로 풀 수 없는 부분수열 문제) **
