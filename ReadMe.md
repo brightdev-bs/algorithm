@@ -89,3 +89,7 @@
 3. [서로 다른 빈도수 만들기](/src/hashing/inflearn/Q2_3.java)
 4. [음수가 있는 부분수열](/src/hashing/inflearn/Q2_4.java) (two pointer로 풀 수 없는 부분수열 문제) **
 5. [회장 선거](/src/hashing/inflearn/Q2_5.java) (hash의 키로 다른 자료구조가 들어가는 문제)
+
+## 시간 파싱
+1. [문서 도난](/src/hashing/inflearn/Q2_6.java)
+2. [경고 메일](/src/hashing/inflearn/Q2_7.java)
