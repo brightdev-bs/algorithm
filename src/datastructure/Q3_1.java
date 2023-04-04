@@ -1,4 +1,4 @@
-package hashing.application;
+package datastructure;
 
 import java.util.Set;
 import java.util.TreeSet;

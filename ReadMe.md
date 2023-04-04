@@ -58,7 +58,13 @@
 
 ## Stack & Queue
 1. [괄호의 값](docs/problem-solving/stack/괄호의_값.md)
-2. [최대 길이 연속수열](docs/problem-solving/stack/겹쳐진_압축_해제.md)
+2. [최대 길이 연속수열](docs/problem-solving/stack/겹쳐진_압축_해제.md) (Q3_2)
+3. [현관문 출입순서](/src/datastructure/Q3_3.java)
+4. [피부과](/src/datastructure/Q3_4.java) + 시간파싱 
+
+## 우선순위 큐
+1. [CPU 스케쥴링](/src/datastructure/pq/Q3_5.java)
+2. [가장 많이 사용된 회의실](/src/datastructure/pq/Q3_6.java)
 
 ## 수학
 1. [유클리드 호제법](src/implementation/baekjoon/Q2609.java)
@@ -92,7 +98,7 @@
 5. [회장 선거](/src/hashing/inflearn/Q2_5.java) (hash의 키로 다른 자료구조가 들어가는 문제)
 
 ### HashSet
-1. [최대 길이 연속수열](/src/hashing/application/Q3_1.java)
+1. [최대 길이 연속수열](/src/datastructure/Q3_1.java)
 
 ## 시간 파싱
 1. [문서 도난](/src/hashing/inflearn/Q2_6.java)

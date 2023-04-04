@@ -1,4 +1,4 @@
-package hashing.application;
+package datastructure;
 
 import java.util.Stack;
 
