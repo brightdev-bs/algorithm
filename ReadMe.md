@@ -103,3 +103,12 @@
 ## 시간 파싱
 1. [문서 도난](/src/hashing/inflearn/Q2_6.java)
 2. [경고 메일](/src/hashing/inflearn/Q2_7.java)
+
+## 정렬
+1. [이진수 정렬](/src/sort/inflearn/Q4_1.java)
+2. [수열 찾기](/src/sort/inflearn/Q4_2.java)
+3. [카드 가져가기](/src/sort/inflearn/Q4_3.java) (다시 풀기)
+4. [심사 위원](/src/sort/inflearn/Q4_4.java)
+5. [모임 장소](/src/sort/inflearn/Q4_5.java) (꼭 다시 풀기 -> 아이디어 중요함)
+6. [멀티 태스킹](/src/sort/inflearn/Q4_6.java) (꼭 다시 풀기 -> 아이디어 중요함)
+7. [최소 회의실 개수](/src/sort/inflearn/Q4_7.java)
