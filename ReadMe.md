@@ -25,6 +25,13 @@
 2. [최대 수입 스케쥴](docs/problem-solving/greedy/최대_수입_스케쥴.md)
 3. [멀티탭 스케줄링](docs/problem-solving/greedy/멀티탭_스케줄링.md) (다시 풀기)
 
+### 최신기출
+1. [침몰하는 타이타닉](/src/greedy/inflearn/recentproblem/Q5_1.java)
+2. [이동횟수](/src/greedy/inflearn/recentproblem/Q5_2.java)
+3. [스프링쿨러](/src/greedy/inflearn/recentproblem/Q5_3.java) (다시 풀기)
+4. [꽃이 피는 최단시간](/src/greedy/inflearn/recentproblem/Q5_4.java)
+5. [전투 게임](/src/greedy/inflearn/recentproblem/Q5_5.java)
+
 ### Dijkstra
 1. [다익스트라 알고리즘](docs/problem-solving/greedy/다익스트라.md)
 2. [최소비용 구하기](src/greedy/baekjoon/dijkstra/Q1916.java) (다시 풀기)
