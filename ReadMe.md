@@ -31,6 +31,7 @@
 3. [스프링쿨러](/src/greedy/inflearn/recentproblem/Q5_3.java) (다시 풀기)
 4. [꽃이 피는 최단시간](/src/greedy/inflearn/recentproblem/Q5_4.java)
 5. [전투 게임](/src/greedy/inflearn/recentproblem/Q5_5.java)
+6. [최대 인원수](/src/greedy/inflearn/recentproblem/Q5_6.java) (다시 풀기)
 
 ### Dijkstra
 1. [다익스트라 알고리즘](docs/problem-solving/greedy/다익스트라.md)
