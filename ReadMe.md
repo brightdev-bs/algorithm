@@ -5,6 +5,10 @@
 2. [조합 구하기](docs/problem-solving/dfs/조합_구하기.md)
 3. [피자 배달 거리](docs/problem-solving/dfs/피자_배달_거리.md)<br>
 4. [A -> B](src/dfs/baekjoon/Q16953.java)
+5. [가장 가까운 수](/src/dfs/inflearn/important/Q6_1.java)
+6. [줄다리기](/src/dfs/inflearn/important/Q6_2.java)
+7. [바둑대회](/src/dfs/inflearn/important/Q6_3.java)
+8. [팰린드롬의 경우수](/src/dfs/inflearn/important/Q6_4.java) (다시 풀기)
 
 ### BFS
 1. [최단 거리](docs/problem-solving/bfs/최단거리_BFS.md)
