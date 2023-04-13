@@ -9,6 +9,8 @@
 6. [줄다리기](/src/dfs/inflearn/important/Q6_2.java)
 7. [바둑대회](/src/dfs/inflearn/important/Q6_3.java)
 8. [팰린드롬의 경우수](/src/dfs/inflearn/important/Q6_4.java) (다시 풀기)
+9. [IP 주소](/src/dfs/inflearn/important/Q6_5.java) (**다시 풀기**)
+10. [알파코드](/src/dfs/inflearn/important/Q6_6.java) (다시 풀기)
 
 ### BFS
 1. [최단 거리](docs/problem-solving/bfs/최단거리_BFS.md)
