@@ -31,6 +31,12 @@
 3. [단지번호붙이기](/src/dfs/baekjoon/Q2667.java)
 4. [아기 상어2](/src/dfs/baekjoon/Q17086.java)
 
+### 그래프 최단거리
+1. [최소 비행료](/src/graph/inflearn/Q8_1.java)
+2. [최소 환승 경로](/src/graph/inflearn/Q8_2.java) (1번 문제와 짝)
+3. [벽 허물기](/src/graph/inflearn/Q8_3.java) 
+4. [방향 바꾸기](/src/graph/inflearn/Q8_4.java) (3번 문제와 짝)
+
 ## Greedy
 ### Greedy
 1. [결혼식](docs/problem-solving/greedy/결혼식.md)
