@@ -8,9 +8,9 @@
 5. [가장 가까운 수](/src/dfs/inflearn/important/Q6_1.java)
 6. [줄다리기](/src/dfs/inflearn/important/Q6_2.java)
 7. [바둑대회](/src/dfs/inflearn/important/Q6_3.java)
-8. [팰린드롬의 경우수](/src/dfs/inflearn/important/Q6_4.java) (다시 풀기)
-9. [IP 주소](/src/dfs/inflearn/important/Q6_5.java) (**다시 풀기**)
-10. [알파코드](/src/dfs/inflearn/important/Q6_6.java) (다시 풀기)
+8. [팰린드롬의 경우수](/src/dfs/inflearn/important/Q6_4.java) 
+9. [IP 주소](/src/dfs/inflearn/important/Q6_5.java) 
+10. [알파코드](/src/dfs/inflearn/important/Q6_6.java) 9번 유형 + 메모제이션
 
 ### BFS
 1. [최단 거리](docs/problem-solving/bfs/최단거리_BFS.md)
@@ -140,3 +140,7 @@
 5. [모임 장소](/src/sort/inflearn/Q4_5.java) (꼭 다시 풀기 -> 아이디어 중요함)
 6. [멀티 태스킹](/src/sort/inflearn/Q4_6.java) (꼭 다시 풀기 -> 아이디어 중요함)
 7. [최소 회의실 개수](/src/sort/inflearn/Q4_7.java)
+
+## 추가 문제
+[leetCode blind75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+[SW Expert Academy](https://swexpertacademy.com/main/main.do)
