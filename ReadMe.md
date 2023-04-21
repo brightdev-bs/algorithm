@@ -8,8 +8,8 @@
 5. [가장 가까운 수](/src/dfs/inflearn/important/Q6_1.java)
 6. [줄다리기](/src/dfs/inflearn/important/Q6_2.java)
 7. [바둑대회](/src/dfs/inflearn/important/Q6_3.java)
-8. [팰린드롬의 경우수](/src/dfs/inflearn/important/Q6_4.java) 
-9. [IP 주소](/src/dfs/inflearn/important/Q6_5.java) 
+8. [팰린드롬의 경우수](/src/dfs/inflearn/important/Q6_4.java) **
+9. [IP 주소](/src/dfs/inflearn/important/Q6_5.java) **
 10. [알파코드](/src/dfs/inflearn/important/Q6_6.java) 9번 유형 + 메모제이션
 
 ### BFS
@@ -20,7 +20,7 @@
 5. [이모티콘](/src/bfs/baekjoon/Q14226.java)
 6. [타일 점프](/src/bfs/inflearn/important/Q7_1.java)
 7. [집으로 이동](/src/bfs/inflearn/important/Q7_2.java)
-8. [송아지를 잡자](/src/bfs/inflearn/important/Q7_3.java) (**다시 풀기**)
+8. [송아지를 잡자](/src/bfs/inflearn/important/Q7_3.java) **
 9. [미로의 최단거리 통로](/src/bfs/inflearn/important/Q7_4.java) (전형적인 기초 BFS문제)
 10. [집을 짓자](/src/bfs/inflearn/important/Q7_5.java) (다시 풀기) 
 11. [숲속의 기사](/src/bfs/inflearn/important/Q7_6.java) (10번 문제와 유사)
