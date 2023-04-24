@@ -37,7 +37,7 @@
 3. [벽 허물기](/src/graph/inflearn/Q8_3.java) 
 4. [방향 바꾸기](/src/graph/inflearn/Q8_4.java) (3번 문제와 짝)
 5. [공 굴리기](/src/graph/inflearn/Q8_5.java) (구글 인턴 문제로 나온 유형)
-6. [교육 과정](/src/graph/inflearn/Q8_6.java) (위상 정렬 문제)
+6. [교육 과정](/src/graph/inflearn/Q8_6.java) (위상 정렬 문제) **
 
 ## Greedy
 ### Greedy
