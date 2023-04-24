@@ -142,5 +142,6 @@
 7. [최소 회의실 개수](/src/sort/inflearn/Q4_7.java)
 
 ## 추가 문제
-[leetCode blind75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+
+
 [SW Expert Academy](https://swexpertacademy.com/main/main.do)
