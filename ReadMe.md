@@ -48,10 +48,10 @@
 ### 최신기출
 1. [침몰하는 타이타닉](/src/greedy/inflearn/recentproblem/Q5_1.java)
 2. [이동횟수](/src/greedy/inflearn/recentproblem/Q5_2.java)
-3. [스프링쿨러](/src/greedy/inflearn/recentproblem/Q5_3.java) (다시 풀기)
+3. **[스프링쿨러](/src/greedy/inflearn/recentproblem/Q5_3.java)** 
 4. [꽃이 피는 최단시간](/src/greedy/inflearn/recentproblem/Q5_4.java)
 5. [전투 게임](/src/greedy/inflearn/recentproblem/Q5_5.java)
-6. [최대 인원수](/src/greedy/inflearn/recentproblem/Q5_6.java) (다시 풀기)
+6. **[최대 인원수](/src/greedy/inflearn/recentproblem/Q5_6.java)** 
 
 ### Dijkstra
 1. [다익스트라 알고리즘](docs/problem-solving/greedy/다익스트라.md)
@@ -114,7 +114,7 @@
 3. [잃어버린 강아지](/src/implementation/inflearn/Q1_3.java) (2번 심화 문제)
 4. [좌석 번호](/src/implementation/inflearn/Q1_4.java) (3번 비슷한 문제)
 5. [최대길이 바이토닉 수열](/src/implementation/inflearn/Q1_5.java)
-6. [과일 가져가기](/src/implementation/inflearn/Q1_6.java) (다시 풀기)
+6. **_[과일 가져가기](/src/implementation/inflearn/Q1_6.java)_** 
 7. [비밀 번호](/src/implementation/inflearn/Q1_7.java)
 8. [회의실 면담](/src/implementation/inflearn/Q1_8.java) (꼭 다시 풀기)
 
