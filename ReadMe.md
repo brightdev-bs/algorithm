@@ -114,9 +114,9 @@
 3. [잃어버린 강아지](/src/implementation/inflearn/Q1_3.java) (2번 심화 문제)
 4. [좌석 번호](/src/implementation/inflearn/Q1_4.java) (3번 비슷한 문제)
 5. [최대길이 바이토닉 수열](/src/implementation/inflearn/Q1_5.java)
-6. **_[과일 가져가기](/src/implementation/inflearn/Q1_6.java)_** 
+6. _**[과일 가져가기](/src/implementation/inflearn/Q1_6.java)**_ 
 7. [비밀 번호](/src/implementation/inflearn/Q1_7.java)
-8. [회의실 면담](/src/implementation/inflearn/Q1_8.java) (꼭 다시 풀기)
+8. **_[회의실 면담](/src/implementation/inflearn/Q1_8.java)_**
 
 ## 해싱
 1. [한 번 사용한 최초문자](/src/hashing/inflearn/Q2_1.java)
@@ -135,7 +135,7 @@
 ## 정렬
 1. [이진수 정렬](/src/sort/inflearn/Q4_1.java)
 2. [수열 찾기](/src/sort/inflearn/Q4_2.java)
-3. [카드 가져가기](/src/sort/inflearn/Q4_3.java) (다시 풀기)
+3. **[카드 가져가기](/src/sort/inflearn/Q4_3.java)**
 4. [심사 위원](/src/sort/inflearn/Q4_4.java)
 5. [모임 장소](/src/sort/inflearn/Q4_5.java) (꼭 다시 풀기 -> 아이디어 중요함)
 6. [멀티 태스킹](/src/sort/inflearn/Q4_6.java) (꼭 다시 풀기 -> 아이디어 중요함)
