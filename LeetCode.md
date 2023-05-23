@@ -16,3 +16,23 @@
 10. [Container With Most Water](/src/leetcode/array/ContainsDuplicate.java) 
     - Zoom 기출
 
+### 
+
+
+### Dynamic programming
+1. [Climbing Stairs](/src/leetcode/dynamic/ClimbingStairs.java)
+2. [Coin Change](/src/leetcode/dynamic/CoinChange.java)
+3. [Longest Increasing Subsequence](/src/leetcode/dynamic/LongestIncreasingSubsequence.java) ** O(nlogn) 알고리즘 생각해보기
+4. [Longest Common Subssequence](/src/leetcode/dynamic/LongestCommonSubsequence.java)
+5. [Word Break](/src/leetcode/dynamic/WordBreak.java)
+6. [Combination Sum IV](/src/leetcode/dynamic/CombinationSumIV.java)
+7. [Unique Paths](/src/leetcode/dynamic/UniquePaths.java)
+8. [Jump Game](src/leetcode/dynamic/JumpGame.java)
+
+
+### Graph
+1. [Clone Graph](/src/leetcode/graph/CloneGraph.java)
+2. [Course Schedule](/src/leetcode/graph/CourseSchedule.java) ** 위상 정렬 말고 다른 방법으로도 풀어보기
+3. [PacificAtlanticWaterFlow](/src/leetcode/graph/PacificAtlanticWaterFlow.java)
+4. [Number of Islands](/src/leetcode/graph/NumberOfIslands.java)
+5. [Longest consecutive sequence](/src/leetcode/graph/LongestConsecutiveSequence.java)
