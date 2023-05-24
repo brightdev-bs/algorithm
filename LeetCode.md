@@ -36,3 +36,8 @@
 3. [PacificAtlanticWaterFlow](/src/leetcode/graph/PacificAtlanticWaterFlow.java)
 4. [Number of Islands](/src/leetcode/graph/NumberOfIslands.java)
 5. [Longest consecutive sequence](/src/leetcode/graph/LongestConsecutiveSequence.java)
+
+### Interval
+1. [Insert Interval](/src/leetcode/interval/InsertInterval.java)
+2. [MergeIntervals](/src/leetcode/interval/MergeIntervals.java)
+3. [NonOverlappingIntervals](/src/leetcode/interval/NonOverlappingIntervals.java)
