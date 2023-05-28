@@ -16,8 +16,12 @@
 10. [Container With Most Water](/src/leetcode/array/ContainsDuplicate.java) 
     - Zoom 기출
 
-### 
-
+### Binary
+1. [Sum Of Two Integers](/src/leetcode/binary/SumOfTwoIntegers.java)
+2. [Number Of 1 Bits](/src/leetcode/binary/NumberOfOneBits.java)
+3. [Counting Bits](/src/leetcode/binary/CountingBits.java)
+4. [Missing Number](/src/leetcode/binary/MissingNumber.java)
+5. [Reverse Bits](/src/leetcode/binary/ReverseBits.java)
 
 ### Dynamic programming
 1. [Climbing Stairs](/src/leetcode/dynamic/ClimbingStairs.java)
@@ -41,3 +45,15 @@
 1. [Insert Interval](/src/leetcode/interval/InsertInterval.java)
 2. [MergeIntervals](/src/leetcode/interval/MergeIntervals.java)
 3. [NonOverlappingIntervals](/src/leetcode/interval/NonOverlappingIntervals.java)
+
+### Linked List
+1. [Reverse a Linked List](/src/leetcode/linkedlist/ReverseLinkedList.java)
+2. [Detect Cycle in a Linked List](/src/leetcode/linkedlist/LinkedListCycle.java)
+2. [Merge Two Sorted Lists](/src/leetcode/linkedlist/MergeTwoSortedList.java)
+4. [Merge K SortedLists](/src/leetcode/linkedlist/MergeKSortedLists.java) (최적화 방법으로 풀어보기)
+5. [Remove Nth Node From End Of List](/src/leetcode/linkedlist/RemoveNthNodeFromEndOfList.java)
+6. [Reorder List](/src/leetcode/linkedlist/ReorderList.java)
+
+### String
+1. [Longest Substring With Repeating Characters](/src/leetcode/string/LongestSubstringWithoutRepeatingCharacters.java)
+2. [Longest Repeating Character Replacement](/src/leetcode/string/LongestRepeatingCharacterReplacement.java)
