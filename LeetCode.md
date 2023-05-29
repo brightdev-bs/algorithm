@@ -57,3 +57,6 @@
 ### String
 1. [Longest Substring With Repeating Characters](/src/leetcode/string/LongestSubstringWithoutRepeatingCharacters.java)
 2. [Longest Repeating Character Replacement](/src/leetcode/string/LongestRepeatingCharacterReplacement.java)
+3. [Minimum Window Substring](/src/leetcode/string/MinimumWindowSubstring.java)
+4. [Valid Anagram](/src/leetcode/string/ValidAnagram.java)
+5. [GroupAnagrams](/src/leetcode/string/GroupAnagrams.java)
