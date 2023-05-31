@@ -60,3 +60,9 @@
 3. [Minimum Window Substring](/src/leetcode/string/MinimumWindowSubstring.java)
 4. [Valid Anagram](/src/leetcode/string/ValidAnagram.java)
 5. [GroupAnagrams](/src/leetcode/string/GroupAnagrams.java)
+6. [Valid Parentheses](/src/leetcode/string/ValidParentheses.java)
+7. [Valid Palindrome](/src/leetcode/string/ValidPalindrome.java)
+8. [Longest Palindromic Substring](/src/leetcode/string/LongestPalindromicSubstring.java)
+9. [Palindromic Substrings](/src/leetcode/string/PalindromicSubstrings.java)
+
+
