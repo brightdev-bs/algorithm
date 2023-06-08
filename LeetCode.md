@@ -72,6 +72,9 @@
 4. [Binary Tree Maximum Path Sum](/src/leetcode/tree/BinaryTreeMaxiumumPathSum.java)
 5. [Binary Tree Level Order Traversal](/src/leetcode/tree/BinaryTreeLevelOrderTraversal.java)
 6. [Serialize and Deserialize Binary Tree](/src/leetcode/tree/SerializeAndDeserializeBinaryTree.java)
+7. [SubTree Of Another Tree](/src/leetcode/tree/SubtreeOfAnotherTree.java)
+8. [Construct Binary Tree From Preorder And Inorder Traversal](/src/leetcode/tree/ConstructBinaryTreeFromPreorderAndInorderTraversal.java) ** 
+
 
 
 
