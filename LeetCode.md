@@ -76,7 +76,8 @@
 8. [Construct Binary Tree From Preorder And Inorder Traversal](/src/leetcode/tree/ConstructBinaryTreeFromPreorderAndInorderTraversal.java) **
 9. [Validate Binary Search Tree](/src/leetcode/tree/ValidateBinarySearchTree.java) ** 트리 순회에 대한 이해
 10. [Kth Smallest Element in a BST](/src/leetcode/tree/KthSmallestElementInABst.java)
-
+11. [Lowest Common Ancestor of a Binary Search Tree](/src/leetcode/tree/LowestCommonAncestorOfaBinarySearchTree.java)
+12. [Implement Trie (Prefix Tree)](/src/leetcode/tree/ImplementTrie.java)
 
 
 
