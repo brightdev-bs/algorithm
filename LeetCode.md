@@ -81,6 +81,12 @@
 13. [Design Add And Search Words Data Structure](/src/leetcode/tree/DesignAddAndSearchWordsDataStructure.java)
 14. [Word Seach II](/src/leetcode/tree/WordSearchII.java) ** 
 
+### Heap
+1. [Merge K Sorted Lists](/src/leetcode/heap/MergeKSortedLists.java)
+2. [Top K Frequent Elements](/src/leetcode/heap/TopKFrequentElements.java) ** 버킷 정렬
+    - [버킷 정렬](https://brightmango.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B2%84%ED%82%B7-%EC%A0%95%EB%A0%AC)
+3. [Find Median From Data Stream](/src/leetcode/heap/FindMedianFromDataStream.java) **
+
 
 
 
