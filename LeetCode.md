@@ -10,9 +10,9 @@
 4. [Product of Array Except Self](/src/leetcode/array/ProductOfArrayExceptSelf.java) *카테인 알고리즘
 5. [Maximum Subarray](/src/leetcode/array/MaximumSubarray.java) *카테인 알고리즘
 6. [Maximum Product Subarray](/src/leetcode/array/MaximumProductSubarray.java) *카테인 알고리즘
-7. [Find Minimum in Rotated Sorted Array](/src/leetcode/array/FindMinimumInRotatedSortedArray.java) * 이분 탐색
-8. [Search in Rotated Sorted Array](/src/leetcode/array/SearchInRotatedSortedArray.java)
-9. [3 Sum](/src/leetcode/array/ThreeSum.java)
+7. [Find Minimum in Rotated Sorted Array](/src/leetcode/array/FindMinimumInRotatedSortedArray.java) * 이진 탐색
+8. [Search in Rotated Sorted Array](/src/leetcode/array/SearchInRotatedSortedArray.java) * 이진 탐색
+9. [3 Sum](/src/leetcode/array/ThreeSum.java) * 이진 탐색
 10. [Container With Most Water](/src/leetcode/array/ContainsDuplicate.java) 
     - Zoom 기출
 
