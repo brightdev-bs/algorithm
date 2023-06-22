@@ -1,4 +1,4 @@
-package leetcode.array.reivew;
+package leetcode.array.reivew.array;
 
 public class BestTimeToBuyAndSellStock {
 
