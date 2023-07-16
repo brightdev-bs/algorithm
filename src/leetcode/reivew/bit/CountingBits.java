@@ -1,4 +1,4 @@
-package leetcode.array.reivew.bit;
+package leetcode.reivew.bit;
 
 public class CountingBits {
 

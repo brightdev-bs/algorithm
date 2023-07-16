@@ -1,4 +1,4 @@
-package leetcode.array.reivew.dy;
+package leetcode.reivew.dy;
 
 // easy
 public class ClimbingStairs {

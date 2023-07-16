@@ -1,4 +1,4 @@
-package leetcode.array.reivew.dy;
+package leetcode.reivew.dy;
 
 public class HouseNumberII {
     public int rob(int[] nums) {

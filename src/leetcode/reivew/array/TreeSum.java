@@ -1,4 +1,4 @@
-package leetcode.array.reivew.array;
+package leetcode.reivew.array;
 
 import java.util.*;
 

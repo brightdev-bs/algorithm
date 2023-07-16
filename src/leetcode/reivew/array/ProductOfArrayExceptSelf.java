@@ -1,4 +1,4 @@
-package leetcode.array.reivew.array;
+package leetcode.reivew.array;
 
 public class ProductOfArrayExceptSelf {
 

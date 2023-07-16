@@ -1,4 +1,4 @@
-package leetcode.array.reivew.interval;
+package leetcode.reivew.interval;
 
 import java.util.Arrays;
 // easy
